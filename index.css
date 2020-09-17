@@ -1,0 +1,35 @@
+/*p{
+	background-color:red;
+	color:blue;
+}*/
+/*css comments*/
+/*
+#sample{
+	background-color: blue;
+	color:white;
+}
+.sample{
+	background-color: blue;
+	color:yellow; 
+}
+h2,p{
+	background-color:olive;
+	color:pink; 
+}
+
+*{
+	text-align:center;
+}*/
+body{
+	background-color:yellow; 
+}
+main{
+	background-color:skyblue;
+	margin:5%;
+	display:flex;
+	justify-content:space-around;
+}
+section{
+	background-color:pink ;
+	margin:5%;
+}
